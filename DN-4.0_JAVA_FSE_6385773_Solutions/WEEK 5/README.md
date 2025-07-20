@@ -1,0 +1,1 @@
+> **Note:** Since I haven’t received any additional hands-on tasks as informed by the POC—either via email or through any other means—I am only uploading the previously provided mandatory hands-on activity.
